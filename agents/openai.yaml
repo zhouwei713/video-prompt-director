@@ -1,0 +1,6 @@
+interface:
+  display_name: "Video Prompt Director"
+  short_description: "Turn briefs and sources into controlled video prompts"
+  default_prompt: "Use $video-prompt-director to turn this one-line idea into a source-grounded 30-second video generation prompt."
+policy:
+  allow_implicit_invocation: true
